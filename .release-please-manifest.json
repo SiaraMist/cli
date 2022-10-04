@@ -1,9 +1,9 @@
 {
-  ".": "9.0.0-pre.3",
+  ".": "9.0.0-pre.4",
   "workspaces/arborist": "6.0.0-pre.3",
   "workspaces/libnpmaccess": "7.0.0-pre.1",
   "workspaces/libnpmdiff": "5.0.0-pre.1",
-  "workspaces/libnpmexec": "5.0.0-pre.3",
+  "workspaces/libnpmexec": "5.0.0-pre.4",
   "workspaces/libnpmfund": "4.0.0-pre.3",
   "workspaces/libnpmhook": "9.0.0-pre.0",
   "workspaces/libnpmorg": "5.0.0-pre.0",
